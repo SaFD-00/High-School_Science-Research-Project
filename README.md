@@ -1,6 +1,14 @@
 # High-School_Science-Research-Project
 
-My Reasearch History of High School from 2016 to 2018. 
+Science Reasearch History of Myeongduk High School from 2016 to 2018.
+
+1. (2016) Comparison of Food Handling Capacity in the American East according to the Acidity and Sugar Content of Food
+2. (2017) A Study on the Comparison of the Appearance and Ecological Humidity of Korea's Unique Rare Species 'Hairworm Deerbug' and 'Hairworm Deerbug'
+3. (2017) A Study on the Improvement of Heating Efficiency of Ceiling Heating System by Expansion of Humidification System
+
+First and second were researched at life science circles 'Hermes'.<br>Those were won the first prize at in-school R&E competition.
+<br><br>
+Third was researched at contest of 'STEAM R&E' with friends.<br><br><br>
 
 ## (2016) Comparison of Food Handling Capacity in the American East according to the Acidity and Sugar Content of Food
 | 일시            | 발표자 및 주제                                                                                                                                                                                                  |  
