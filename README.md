@@ -8,7 +8,7 @@ Science Reasearch History of Myeongduk High School from 2016 to 2018.
 
 First and second were researched at life science circles 'Hermes'.<br>Those were won the first prize at in-school R&E competition.
 <br><br>
-Third was researched at contest of 'STEAM R&E' with friends.<br><br><br>
+Third was researched at contest of 'STEAM R&E' with friends.<br><br>
 
 ## (2016) Comparison of Food Handling Capacity in the American East according to the Acidity and Sugar Content of Food
 | 일시            | 발표자 및 주제                                                                                                                                                                                                  |  
